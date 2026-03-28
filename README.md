@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Mythri K R
+Mythri K R
 
-**AI & Data Science Student | Software Developer Intern at Mitra Softwares | Full-Stack Developer**
+**AI & Data Science Student | Software Developer Intern at Mitra Softwares **
 
 I'm an AI & Data Science student with hands-on experience building real-world applications. Currently working as a Software Developer Intern at Mitra Softwares, developing production-level web applications and exploring machine learning solutions.
 
@@ -64,7 +64,6 @@ Based in **Shivamogga, Karnataka, India** | Passionate about scalable, user-cent
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
