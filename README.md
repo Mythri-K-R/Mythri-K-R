@@ -1,99 +1,150 @@
-# Mythri K R
+# Hey there! 👋 I'm Mythri K R
 
-Artificial Intelligence & Data Science Student
-Software Developer Intern at Mitra Softwares, Shivamogga
+**AI & Data Science Student | Software Developer Intern at Mitra Softwares | Full-Stack Developer**
 
----
+I'm an AI & Data Science student with hands-on experience building real-world applications. Currently working as a Software Developer Intern at Mitra Softwares, developing production-level web applications and exploring machine learning solutions.
 
-## About Me
-
-I am an Artificial Intelligence and Data Science student with hands-on experience in building real-world applications across full-stack development, mobile applications, and applied machine learning.
-
-Currently working as a Software Developer Intern at Mitra Softwares, where I contribute to developing and deploying production-level client projects. I am passionate about building scalable, user-focused solutions and continuously improving my technical skills.
+Based in **Shivamogga, Karnataka, India** | Passionate about scalable, user-centric technology solutions.
 
 ---
 
-## Experience
+## 💼 Current Role
 
-**Software Developer Intern**
-Mitra Softwares, Shivamogga, Karnataka
+**Software Developer Intern** @ Mitra Softwares, Shivamogga
+- Developing and deploying production-level client projects
+- Working on live web applications serving real users
+- Building scalable solutions with modern technologies
 
-* Developed and deployed real-world client projects using modern technologies
-* Contributed to production-level web applications
-* Worked on live projects:
-
-  * https://nagashreeschoolcrp.in
-  * https://ka476cisce.org
-
----
-
-## Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, Dart
-
-**Frontend:** React, HTML, CSS, Tailwind CSS
-
-**Backend & APIs:** Node.js, Express.js, Flask, FastAPI, REST APIs, JWT Authentication
-
-**Mobile Development:** Flutter
-
-**Databases:** PostgreSQL, SQLite, Supabase
-
-**Tools & Platforms:** Git, GitHub, Vercel, cPanel, Power BI, Excel
-
-**Other:** UI/UX Design, Prompt Engineering
+**Live Deployments:**
+- [Nagashree School CRP](https://nagashreeschoolcrp.in) - School website with admin dashboard
+- [St. Joseph Public School](https://ka476cisce.org) - Multi-page platform with optimized performance
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-**PantryPal – Inventory and Expiry Tracking System**
-https://github.com/Mythri-K-R/pantrypal_new/
-
-* Dual portal application for inventory management and customer tracking
-* OCR-based receipt scanning and secure authentication
+**PantryPal – Inventory & Expiry Tracking**
+- Dual portal application for inventory management
+- OCR-based receipt scanning
+- Secure authentication system
+- [GitHub](https://github.com/Mythri-K-R/pantrypal_new/)
 
 **Nagashree Connect – School Website**
-https://github.com/Mythri-K-R/nagashree-connect/
-https://nagashreeschoolcrp.in
-
-* School website with admin dashboard for content management
+- Full-featured school website
+- Admin dashboard for content management
+- Live: [nagashreeschoolcrp.in](https://nagashreeschoolcrp.in)
+- [GitHub](https://github.com/Mythri-K-R/nagashree-connect/)
 
 **St. Joseph Public School Platform**
-https://github.com/Mythri-K-R/st.-joseph-s-bloom/
-https://ka476cisce.org
-
-* Multi-page web platform with optimized performance
+- Multi-page web platform
+- Optimized performance
+- Live: [ka476cisce.org](https://ka476cisce.org)
+- [GitHub](https://github.com/Mythri-K-R/st.-joseph-s-bloom/)
 
 **GrowLink – Plant Nursery Platform**
-https://github.com/Mythri-K-R/growlink-booking/
-https://mythri-k-r.github.io/growlink-booking/
+- Plant browsing and booking system
+- WhatsApp integration
+- [Demo](https://mythri-k-r.github.io/growlink-booking/)
+- [GitHub](https://github.com/Mythri-K-R/growlink-booking/)
 
-* Plant browsing and booking system with WhatsApp integration
-
-**AI-Based Black Pepper Price Forecasting System**
-https://github.com/Mythri-K-R/pepper_price_project/
-
-* Time-series forecasting using LSTM and GRU models
+**AI-Based Black Pepper Price Forecasting**
+- Time-series forecasting using LSTM & GRU
+- Machine learning models comparison
+- [GitHub](https://github.com/Mythri-K-R/pepper_price_project/)
 
 **Mobile Applications**
-
-* DailyCapture – Photo journaling application
-* Smart Calendar – Task management application
-
----
-
-## Achievements
-
-* Appreciation Prize – Anveshana Karnataka 2026
-* Top Performer – Mini-Anveshana (2024, 2025)
-* Top 10 – Innovate-a-thon 2025
-* Top 5 – Ideastorm 2025
+- DailyCapture – Photo journaling application
+- Smart Calendar – Task management application
 
 ---
 
-## Contact
+## 💻 Technical Skills
 
-LinkedIn: https://linkedin.com/in/mythri-k-r-932377312
-GitHub: https://github.com/Mythri-K-R
-Email: [mythrikr88@gmail.com](mailto:mythrikr88@gmail.com)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="TailwindCSS">
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI">
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter">
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase">
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge" alt="cPanel">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" alt="PowerBI">
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Appreciation Prize – Anveshana Karnataka 2026
+- ⭐ Top Performer – Mini-Anveshana (2024, 2025)
+- 🎯 Top 10 – Innovate-a-thon 2025
+- 🎖️ Top 5 – Ideastorm 2025
+
+---
+
+## 🎓 Education
+
+**AI & Data Science Engineering** (8th Semester)
+- Hands-on experience with full-stack development
+- Applied machine learning projects
+- Production-level application development
+
+---
+
+## 📊 GitHub Stats
+
+[![Mythri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mythri-K-R&show_icons=true&theme=radical)](https://github.com/Mythri-K-R)
+
+---
+
+## 🔗 Connect with Me
+
+**LinkedIn** → [linkedin.com/in/mythri-k-r-932377312](https://linkedin.com/in/mythri-k-r-932377312)
+
+**GitHub** → [github.com/Mythri-K-R](https://github.com/Mythri-K-R)
+
+**Email** → [mythrikr88@gmail.com](mailto:mythrikr88@gmail.com)
+
+---
+
+<div align="center">
+
+**"Building scalable, user-centric solutions that make a real impact"**
+
+⭐ If you find my work useful, feel free to star my repositories and connect!
+
+</div>
