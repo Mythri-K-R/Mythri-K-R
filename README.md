@@ -1,8 +1,8 @@
 #  I'm Mythri K R
 
-**AI & Data Science Student | Software Developer Intern at Mitra Softwares**
+**AI & Data Science Graduate | Software Developer Intern at Mitra Softwares**
 
-I'm an AI & Data Science student with hands-on experience building real-world applications. Currently working as a Software Developer Intern at Mitra Softwares, developing production-level web applications and exploring machine learning solutions.
+I'm an AI & Data Science graduate with hands-on experience building real-world applications. Currently working as a Software Developer Intern at Mitra Softwares, developing production-level web applications and exploring machine learning solutions.
 
 Based in **Shivamogga, Karnataka, India** | Passionate about scalable, user-centric technology solutions.
 
